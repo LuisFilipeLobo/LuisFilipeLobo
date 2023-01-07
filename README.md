@@ -1,6 +1,6 @@
 # Olá, eu sou o Luis Filipe! 🖐️
 
-<p>Sou um cearense estudante de Engenharia de Software. Apaixonado por café, tecnologia, computação, música, leitura, ficção científica e jiu-jitsu. </p>
+<p>Sou um cearense graduando em Engenharia de Software. Apaixonado por café, tecnologia, computação, música, leitura, ficção científica e jiu-jitsu. </p>
 
 <br>
 
